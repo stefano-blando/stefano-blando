@@ -18,17 +18,14 @@ Current focus:
 
 ## Selected Projects
 
-- [Island Model + MultiVeStA](https://stefano-blando.github.io/projects/island-model-smc/)  
-  Statistical model checking of the Fagiolo-Dosi Island Model, with formal convergence guarantees and parameter sensitivity analysis. Accepted at MARS @ ETAPS 2026.
+- [Multi-Agent Orchestration](https://stefano-blando.github.io/projects/multi-agent-orchestration/)  
+  Event-driven coordination system for auction-based procurement, inventory allocation, and real-time fulfillment under demand uncertainty.
 
-- [Robust Portfolio Optimization (PFSE)](https://stefano-blando.github.io/projects/robust-portfolio-optimization/)  
-  Robust covariance estimation for portfolio allocation under systematic market disruptions. Submitted to *Computational Economics*.
+- Firm-Level Functional SDR for Financial Distress *(in progress)*  
+  Functional dimension-reduction pipeline for firm-level distress prediction using trajectory-based financial predictors.
 
 - [RiskSentinel](https://stefano-blando.github.io/projects/risk-sentinel/)  
   Multi-agent systemic-risk simulator on large equity networks, combining contagion modeling with interactive analysis.
-
-- [Multi-Agent Orchestration](https://stefano-blando.github.io/projects/multi-agent-orchestration/)  
-  Event-driven coordination system for auction-based procurement, inventory allocation, and real-time fulfillment under demand uncertainty.
 
 ## Background
 
