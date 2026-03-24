@@ -18,13 +18,13 @@ Current focus:
 
 ## Selected Projects
 
-- [Multi-Agent Orchestration](https://stefano-blando.github.io/projects/multi-agent-orchestration/)  
+- [![Repo-Multi-Agent Orchestration](https://img.shields.io/badge/Repo-Multi--Agent%20Orchestration-24292e?logo=github&logoColor=white)](https://github.com/stefano-blando/multi-agent-orchestration)  
   Event-driven coordination system for auction-based procurement, inventory allocation, and real-time fulfillment under demand uncertainty.
 
-- Firm-Level Functional SDR for Financial Distress *(in progress)*  
-  Functional dimension-reduction pipeline for firm-level distress prediction using trajectory-based financial predictors.
+- [![Repo-Robust Portfolio Optimization](https://img.shields.io/badge/Repo-Robust%20Portfolio%20Optimization-24292e?logo=github&logoColor=white)](https://github.com/stefano-blando/robust-portfolio-optimization)  
+  Robust covariance estimation for portfolio allocation under systematic market disruptions.
 
-- [RiskSentinel](https://stefano-blando.github.io/projects/risk-sentinel/)  
+- [![Repo-RiskSentinel](https://img.shields.io/badge/Repo-RiskSentinel-24292e?logo=github&logoColor=white)](https://github.com/stefano-blando/microsoft-ai-dev-agents)  
   Multi-agent systemic-risk simulator on large equity networks, combining contagion modeling with interactive analysis.
 
 ## Background
