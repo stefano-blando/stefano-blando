@@ -1,75 +1,68 @@
-# Stefano Blando
+   # Stefano Blando
 
-[![Website](https://img.shields.io/badge/Website-Visit-1f6feb?logo=googlechrome&logoColor=white)](https://stefano-blando.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-blando/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--0523--6855-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0523-6855)
-[![Email](https://img.shields.io/badge/Email-Contact-8b5cf6?logo=gmail&logoColor=white)](mailto:stefano.blando@santannapisa.it)
+    [![Website](https://img.shields.io/badge/Website-Visit-
+  1f6feb?logo=googlechrome&logoColor=white)](https://stefano-blando.github.io/)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-
+  0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-blando/)
+    [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--0523--6855-
+  a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0523-6855)
+    [![Email](https://img.shields.io/badge/Email-Contact-
+  8b5cf6?logo=gmail&logoColor=white)](mailto:stefano.blando@santannapisa.it)
 
-*PhD Student in Artificial Intelligence | AI, Agent-Based Modeling, and Economics*
+    *PhD Candidate in Artificial Intelligence | Complex Systems, Simulation, and Economics*
 
-PhD student in the National PhD Program in Artificial Intelligence at Scuola Superiore Sant'Anna and the University of Pisa. My research lies at the intersection of AI, agent-based modeling, and economics, with a focus on adaptive multi-agent systems, statistical verification of simulations, and robust quantitative methods for financial and socio-economic data.
+    I am a PhD Candidate in the National PhD Program in Artificial Intelligence, based at **Scuola
+  Superiore Sant'Anna** and the **University of Pisa**. My research lies at the intersection of AI,
+  computational economics, and network science. I focus on developing adaptive multi-agent architectures,
+  robust statistical verification methods for simulation models, and quantitative tools for financial
+  systemic risk.
 
-**Core Research**: adaptive multi-agent systems, economic simulation, statistical model checking, robust statistics, financial econometrics.
+    - 🔭 **Core Research**: Adaptive Multi-Agent Systems, Computational Economics, Statistical Model
+  Checking (SMC), Graph Neural Networks (GNNs), Robust Statistics.
+    - 🎓 **Education**: PhD Candidate in AI (SSSA & UniPi) | MSc in Customer Experience & Machine Learning
+  (Tor Vergata, 110/110 cum laude).
 
----
+    ---
 
-## Current Research
+    ## 🔬 Research & Key Projects
 
-**PhD Project**: *Learning How to Learn — Adaptive Cognitive Architectures for Economic Network Formation*  
-I study how economic agents can switch across heuristic, learned, and deliberative policies while their interaction networks evolve endogenously.
+    ### [Risk Sentinel](https://stefano-blando.github.io/projects/risk-sentinel/)
+    An interactive network contagion model and agentic AI workflow built on top of financial stock
+  networks. It combines GNNs, contagion simulation, and natural language multi-agent interaction to
+  inspect systemic cascades.
+    - *Technologies*: Python, Streamlit, Plotly, Microsoft Agent Framework, Azure OpenAI.
 
-**Current lines of work**
-- adaptive multi-agent architectures for economic simulation
-- statistical verification of agent-based models through explicit properties and convergence diagnostics
-- robust quantitative methods for portfolio allocation, systemic risk, and firm-level distress
+    ### [Island Model SMC](https://stefano-blando.github.io/projects/island-model-smc/)
+    A high-performance parallel Sequential Monte Carlo (SMC) algorithm for the automated parameter
+  calibration and statistical validation of complex dynamical stochastic simulation models without
+  analytical likelihoods.
+    - *Technologies*: MATLAB, MultiVeStA, Cluster Computing.
 
-**Recent research project**  
-[Island Model + MultiVeStA](https://stefano-blando.github.io/projects/island-model-smc/)  
-Statistical model checking of the Fagiolo-Dosi Island Model, with formal convergence guarantees and parameter sensitivity analysis. Accepted at MARS @ ETAPS 2026.
+    ### [Multi-Agent Orchestration](https://stefano-blando.github.io/projects/multi-agent-orchestration/)
+    A framework designed for the orchestration, scheduling, and formal verification of complex multi-agent
+  system workflows under strict semantic guarantees.
+    - *Technologies*: Go, Preact, Tailwind CSS.
 
----
+    ---
 
-## Featured Projects
+    ## 🏆 Recent Awards & Recognition
 
-[![Repo-Multi-Agent Orchestration](https://img.shields.io/badge/Repo-Multi--Agent%20Orchestration-24292e?logo=github&logoColor=white)](https://github.com/stefano-blando/multi-agent-orchestration)  
-Event-driven coordination system for auction-based procurement, inventory allocation, and real-time fulfillment under demand uncertainty.
+    - 🥇 **VADISTAT Award for Best Scientific Contribution** (JADT 2026, Palermo)
+      Presented by the *Associazione VADISTAT - Per Simona Balbi* for our research paper *"A Multi-Method
+  Validation Framework for Large-Scale Multilingual Text Analytics"*, developed with Prof. D.
+  Fioredistella Iezzi.
+    - 🥈 **2nd Place - AI Data Hackathon 2024**
+      For developing robust financial machine learning modeling under tight time constraints.
+    - 🎓 **Academic Tutorship Awards** (x2, University of Rome Tor Vergata)
+      Awarded for excellence in student support and teaching assistance.
 
-[![Repo-Robust Portfolio Optimization](https://img.shields.io/badge/Repo-Robust%20Portfolio%20Optimization-24292e?logo=github&logoColor=white)](https://github.com/stefano-blando/robust-portfolio-optimization)  
-Robust covariance estimation for portfolio allocation under systematic market disruptions.
+    ---
 
-[![Repo-RiskSentinel](https://img.shields.io/badge/Repo-RiskSentinel-24292e?logo=github&logoColor=white)](https://github.com/stefano-blando/microsoft-ai-dev-agents)  
-Multi-agent systemic-risk simulator on large equity networks, combining contagion modeling with interactive analysis.
+    ## 🛠️ Tech Stack & Toolkit
 
----
+    - **Languages**: Python, MATLAB, R, Go, JavaScript, SQL
+    - **Frameworks & Tools**: Claude Code, Codex, Antigravity, PyTorch, JAX, Streamlit, Preact
+    - **Tools & Platforms**: Git, Linux, Docker, Netlify, CINECA HPC Cluster
+    - **Academic Writing**: LaTeX, Bookdown, Markdown
 
-## Background
-
-Interdisciplinary path: philosophy, governance and international relations, economics and finance, and artificial intelligence.
-
-**Degrees & Programs**
-- **PhD in Artificial Intelligence** — Scuola Superiore Sant'Anna & University of Pisa
-- **Second-Level Master in Customer Experience, Statistics, ML and AI** — University of Rome Tor Vergata + SAS Academy
-- **MSc in Financial Markets and Financial Intermediaries** — University of Rome Tor Vergata
-- **BSc in Governance and International Relations** — University of Rome Tor Vergata
-- **BA in Philosophy** — La Sapienza University of Rome
-
-**Selected Training**
-- **Oxford Summer School in Economic Networks** — University of Oxford
-- **Workshop in Economic Complexity** — Enrico Fermi Research Center
-- **Erasmus+ Exchange** — University of Paris Est-Créteil
-
----
-
-## Collaboration Interests
-
-- adaptive multi-agent systems for economics
-- statistical verification of simulations
-- robust high-dimensional inference
-- systemic risk and network-based modeling
-- AI methods with empirical relevance for economics
-
----
-
-## Recognition
-
-MARS @ ETAPS 2026 acceptance | AI Data Hackathon (2nd Place) | Alpine Climate Data Challenge Finalist | Academic Tutorship Awards (x2)
+    ---
