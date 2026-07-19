@@ -1,4 +1,5 @@
-   # Stefano Blando
+
+    # Stefano Blando
 
     [![Website](https://img.shields.io/badge/Website-Visit-
   1f6feb?logo=googlechrome&logoColor=white)](https://stefano-blando.github.io/)
@@ -66,3 +67,9 @@
     - **Academic Writing**: LaTeX, Bookdown, Markdown
 
     ---
+
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=stefano-
+  blando&show_icons=true&theme=dark&bg_color=060810&title_color=9eb7db&text_color=a5adba&icon_color=9eb7db
+  &border_color=182338" alt="Stefano's GitHub Stats" />
+    </p>
