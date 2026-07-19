@@ -46,7 +46,6 @@ I study how economic agents can switch across heuristic, learned, and deliberati
 
 ## Tech Stack & Toolkit
 
-- **Languages**: Python, MATLAB, R, Go, JavaScript, SQL
-- **Frameworks & Tools**: Claude Code, Codex, Antigravity, PyTorch, JAX, Streamlit, Preact
-- **Tools & Platforms**: Git, Linux, Docker, Netlify, CINECA HPC Cluster
-- **Academic Writing**: LaTeX, Bookdown, Markdown
+- **Languages**: Python, MATLAB, R, SQL, SAS, Bash
+- **AI Frameworks & Platforms**: Claude Code, Codex, Antigravity, PyTorch, JAX, Streamlit
+- **Academic Writing & Workflows**: Git, LaTeX, Bookdown, Markdown
