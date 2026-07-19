@@ -1,9 +1,9 @@
 # Stefano Blando
 
-[![Website](https://img.shields.io/badge/Website-Visit-1f6feb?logo=googlechrome&logoColor=white)](https://stefano-blando.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefano-blando/)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--0523--6855-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0523-6855)
-[![Email](https://img.shields.io/badge/Email-Contact-8b5cf6?logo=gmail&logoColor=white)](mailto:stefano.blando@santannapisa.it)
+[![Website](https://badgen.net/badge/Website/Visit/blue?icon=chrome)](https://stefano-blando.github.io/)
+[![LinkedIn](https://badgen.net/badge/LinkedIn/Connect/blue?icon=linkedin)](https://www.linkedin.com/in/stefano-blando/)
+[![ORCID](https://badgen.net/badge/ORCID/0009--0007--0523--6855/green)](https://orcid.org/0009-0007-0523-6855)
+[![Email](https://badgen.net/badge/Email/Contact/purple?icon=mail)](mailto:stefano.blando@santannapisa.it)
 
 *PhD Candidate in Artificial Intelligence | AI, Agent-Based Modeling, and Economics*
 
@@ -27,9 +27,9 @@ I study how economic agents can switch across heuristic, learned, and deliberati
 
 ## Featured Projects
 
-- **Risk Sentinel**: An interactive network systemic risk contagion model and agentic AI workflow for stock market networks. ([Project Details](https://stefano-blando.github.io/en/project/risk-sentinel/))
-- **Island Model SMC**: A parallel Sequential Monte Carlo algorithm for the automated parameter calibration and statistical validation of complex dynamical stochastic simulation models. ([Project Details](https://stefano-blando.github.io/en/project/island-model-smc/))
-- **Multi-Agent Orchestration**: A framework designed for the orchestration, scheduling, and formal verification of complex multi-agent system workflows. ([Project Details](https://stefano-blando.github.io/en/project/multi-agent-orchestration/))
+- **Risk Sentinel**: An interactive network systemic risk contagion model and agentic AI workflow for stock market networks. ([GitHub Repository](https://github.com/stefano-blando/risk-sentinel))
+- **Island Model SMC**: A parallel Sequential Monte Carlo algorithm for the automated parameter calibration and statistical validation of complex dynamical stochastic simulation models. ([GitHub Repository](https://github.com/andrea-vandin/MultiVeStA))
+- **Multi-Agent Orchestration**: A framework designed for the orchestration, scheduling, and formal verification of complex multi-agent system workflows. ([GitHub Repository](https://github.com/stefano-blando/multi-agent-orchestration))
 
 ---
 
