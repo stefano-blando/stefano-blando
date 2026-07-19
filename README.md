@@ -5,51 +5,48 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--0523--6855-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0523-6855)
 [![Email](https://img.shields.io/badge/Email-Contact-8b5cf6?logo=gmail&logoColor=white)](mailto:stefano.blando@santannapisa.it)
 
-*PhD Candidate in Artificial Intelligence | Complex Systems, Simulation, and Economics*
+*PhD Candidate in Artificial Intelligence | AI, Agent-Based Modeling, and Economics*
 
-I am a PhD Candidate in the National PhD Program in Artificial Intelligence, based at **Scuola Superiore Sant'Anna** and the **University of Pisa**. My research lies at the intersection of AI, computational economics, and network science. I focus on developing adaptive multi-agent architectures, robust statistical verification methods for simulation models, and quantitative tools for financial systemic risk.
+PhD Candidate in the National PhD Program in Artificial Intelligence at Scuola Superiore Sant'Anna and the University of Pisa. My research lies at the intersection of AI, agent-based modeling, and economics, with a focus on adaptive multi-agent systems, statistical verification of simulations, and robust quantitative methods for financial and socio-economic data.
 
-- 🔭 **Core Research**: Adaptive Multi-Agent Systems, Computational Economics, Statistical Model Checking (SMC), Graph Neural Networks (GNNs), Robust Statistics.
-- 🎓 **Education**: PhD Candidate in AI (SSSA & UniPi) | MSc in Customer Experience & Machine Learning (Tor Vergata, 110/110 cum laude).
-
----
-
-## 🔬 Research & Key Projects
-
-### [Risk Sentinel](https://stefano-blando.github.io/projects/risk-sentinel/)
-An interactive network contagion model and agentic AI workflow built on top of financial stock networks. It combines GNNs, contagion simulation, and natural language multi-agent interaction to inspect systemic cascades.
-- *Technologies*: Python, Streamlit, Plotly, Microsoft Agent Framework, Azure OpenAI.
-
-### [Island Model SMC](https://stefano-blando.github.io/projects/island-model-smc/)
-A high-performance parallel Sequential Monte Carlo (SMC) algorithm for the automated parameter calibration and statistical validation of complex dynamical stochastic simulation models without analytical likelihoods.
-- *Technologies*: MATLAB, MultiVeStA, Cluster Computing.
-
-### [Multi-Agent Orchestration](https://stefano-blando.github.io/projects/multi-agent-orchestration/)
-A framework designed for the orchestration, scheduling, and formal verification of complex multi-agent system workflows under strict semantic guarantees.
-- *Technologies*: Go, Preact, Tailwind CSS.
+**Core Research**: adaptive multi-agent systems, economic simulation, statistical model checking, robust statistics, financial econometrics.
 
 ---
 
-## 🏆 Recent Awards & Recognition
+## Current Research
 
-- 🥇 **VADISTAT Award for Best Scientific Contribution** (JADT 2026, Palermo)  
-  Presented by the *Associazione VADISTAT - Per Simona Balbi* for our research paper *"A Multi-Method Validation Framework for Large-Scale Multilingual Text Analytics"*, developed with Prof. D. Fioredistella Iezzi.
-- 🥈 **2nd Place - AI Data Hackathon 2024**  
+**PhD Project**: *Learning How to Learn — Adaptive Cognitive Architectures for Economic Network Formation*  
+I study how economic agents can switch across heuristic, learned, and deliberative policies while their interaction networks evolve endogenously.
+
+**Current lines of work**
+- adaptive multi-agent architectures for economic simulation
+- statistical verification of agent-based models through explicit properties and convergence diagnostics
+- robust quantitative methods for portfolio allocation, systemic risk, and firm-level distress
+
+---
+
+## Featured Projects
+
+- **Risk Sentinel**: An interactive network systemic risk contagion model and agentic AI workflow for stock market networks. ([Project Details](https://stefano-blando.github.io/en/project/risk-sentinel/))
+- **Island Model SMC**: A parallel Sequential Monte Carlo algorithm for the automated parameter calibration and statistical validation of complex dynamical stochastic simulation models. ([Project Details](https://stefano-blando.github.io/en/project/island-model-smc/))
+- **Multi-Agent Orchestration**: A framework designed for the orchestration, scheduling, and formal verification of complex multi-agent system workflows. ([Project Details](https://stefano-blando.github.io/en/project/multi-agent-orchestration/))
+
+---
+
+## Recent Awards & Recognition
+
+- **VADISTAT Award for Best Scientific Contribution** (JADT 2026, Palermo)  
+  Presented by the *Associazione VADISTAT - Per Simona Balbi* for the paper *"A Multi-Method Validation Framework for Large-Scale Multilingual Text Analytics"*.
+- **2nd Place - AI Data Hackathon 2024**  
   For developing robust financial machine learning modeling under tight time constraints.
-- 🎓 **Academic Tutorship Awards** (x2, University of Rome Tor Vergata)  
-  Awarded for excellence in student support and teaching assistance.
+- **Academic Tutorship Awards** (x2, University of Rome Tor Vergata)  
+  Awarded for excellence in teaching assistance and student academic support.
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+## Tech Stack & Toolkit
 
 - **Languages**: Python, MATLAB, R, Go, JavaScript, SQL
 - **Frameworks & Tools**: Claude Code, Codex, Antigravity, PyTorch, JAX, Streamlit, Preact
 - **Tools & Platforms**: Git, Linux, Docker, Netlify, CINECA HPC Cluster
 - **Academic Writing**: LaTeX, Bookdown, Markdown
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stefano-blando&show_icons=true&theme=dark&bg_color=060810&title_color=9eb7db&text_color=a5adba&icon_color=9eb7db&border_color=182338" alt="Stefano's GitHub Stats" />
-</p>
